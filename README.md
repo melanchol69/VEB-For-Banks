@@ -1,2 +1,2 @@
-# VEB-For-Banks
-An OC Program for Banking
+# Files for VEB For Banks - V0.1.0 - Rough Diamond
+***
